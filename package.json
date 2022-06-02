@@ -1,6 +1,6 @@
 {
   "name": "musicapp-CSS-Vue.Js",
-  "version": "3.2.33",
+  "version": "0.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
